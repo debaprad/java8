@@ -1,9 +1,7 @@
-package com.madhusudhan.wr.allaboutlambdas.functions;
 
 import java.util.List;
 import java.util.Properties;
 
-import com.madhusudhan.wr.allaboutlambdas.domain.Patient;
 
 
 public class RecurringFunctions {
