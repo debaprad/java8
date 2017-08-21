@@ -1,4 +1,3 @@
-package com.madhusudhan.wr.allaboutlambdas.functions;
 
 import java.util.List;
 import java.util.ArrayList;
