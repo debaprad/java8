@@ -1,11 +1,7 @@
-package com.madhusudhan.wr.allaboutlambdas.functions;
 
 import java.util.List;
 import java.util.function.Predicate;
 
-import com.madhusudhan.wr.allaboutlambdas.domain.Employee;
-import com.madhusudhan.wr.allaboutlambdas.domain.Patient;
-import com.madhusudhan.wr.allaboutlambdas.domain.Trade;
 
 /**
  * Class that demonstrates Predicate function usage
