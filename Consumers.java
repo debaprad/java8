@@ -1,8 +1,5 @@
-package com.madhusudhan.wr.allaboutlambdas.functions;
 
 import java.util.function.Consumer;
-
-import com.madhusudhan.wr.allaboutlambdas.domain.Movie;
 
 /**
  * Class to demonstrate Consumer function
