@@ -1,14 +1,7 @@
-package com.madhusudhan.wr.allaboutlambdas.functions;
 
 import java.util.List;
 import java.util.function.Function;
 
-import com.madhusudhan.wr.allaboutlambdas.domain.Book;
-import com.madhusudhan.wr.allaboutlambdas.domain.Employee;
-import com.madhusudhan.wr.allaboutlambdas.domain.Manager;
-import com.madhusudhan.wr.allaboutlambdas.domain.Movie;
-import com.madhusudhan.wr.allaboutlambdas.domain.Trade;
-import com.madhusudhan.wr.allaboutlambdas.util.TradeUtil;
 
 /**
  * Class to demonstrate the Function function
